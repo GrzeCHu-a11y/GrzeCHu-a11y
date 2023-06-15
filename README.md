@@ -51,8 +51,8 @@
 ###
 
 <p align="left">My personal page: 
-###
-#####</p>
+https://ggonczowskidev.netlify.app/
+</p>
 
 ###
 
