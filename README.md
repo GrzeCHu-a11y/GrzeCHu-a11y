@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning TypeScript<br>🎯 Goals: Get job</p>
+<p align="left">📚 I'm currently learning TypeScript & Symfony<br>🎯 Goals: Get job</p>
 
 ###
 
